@@ -2,7 +2,6 @@ FILE_NAME = "input.txt"
 
 def get_joltage(file):
     jolt_sum = 0
-    file = open(FILE_NAME, "r")
     for line in file:
         line = list(line.strip())
         nb_1, nb_2 = line[0], line[1]
