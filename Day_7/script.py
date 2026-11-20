@@ -79,5 +79,5 @@ def laboratories_part2():
 # Output: 1524
 
 # PART 2
-print(laboratories_part2())
+# print(laboratories_part2())
 # Output: 32982105837605
